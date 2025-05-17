@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "got_lavachicken": {
+      "conditions": {
+        "items": [
+          {
+            "items": "lavachicken:lava_chicken"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "description": "Wanna know what happens when you mix hot lava and chicken?",
+    "icon": {
+      "count": 1,
+      "id": "lavachicken:lava_chicken"
+    },
+    "title": "Steve's lava chicken"
+  },
+  "requirements": [
+    [
+      "got_lavachicken"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
