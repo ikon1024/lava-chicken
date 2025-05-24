@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
 	"id": "lavachicken",
-	"version": "${version}",
+	"version": "1.0.3",
 	"name": "lavachicken",
 	"description": "Hot Lava Chicken Mod",
 	"authors": [
-		"Me!"
+		"Acro_N"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
